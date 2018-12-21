@@ -1,0 +1,6 @@
+c:\users\liping.yuan\documents\visual studio 2017\Projects\NFL app\NFL app\bin\Debug\NFL app.exe.config
+c:\users\liping.yuan\documents\visual studio 2017\Projects\NFL app\NFL app\bin\Debug\NFL app.exe
+c:\users\liping.yuan\documents\visual studio 2017\Projects\NFL app\NFL app\bin\Debug\NFL app.pdb
+c:\users\liping.yuan\documents\visual studio 2017\Projects\NFL app\NFL app\obj\Debug\NFL app.csprojResolveAssemblyReference.cache
+c:\users\liping.yuan\documents\visual studio 2017\Projects\NFL app\NFL app\obj\Debug\NFL app.exe
+c:\users\liping.yuan\documents\visual studio 2017\Projects\NFL app\NFL app\obj\Debug\NFL app.pdb
